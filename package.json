@@ -1,0 +1,20 @@
+{
+  "name": "pixelnfts-airdrop",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@proton/js": "^25.0.23",
+    "@proton/web-sdk": "^2.7.23",
+    "next": "^11.0.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "styled-components": "^5.3.0",
+    "url-loader": "^4.1.1",
+    "web-encoding": "^1.1.5"
+  }
+}

@@ -1,3 +1,5 @@
+**USE AT YOUR OWN RISK. THIS IS BETA SOFTWARE AND BUGS MAY EXIST**
+
 Readme:
 
 Step 1: Install node.js (https://nodejs.org/en/download/)
